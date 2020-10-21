@@ -15,5 +15,6 @@ then:
 pip install -m google-cloud-bigquery
 pip install pandas
 pip install matplotlib
+pip install pyarrow
 ```
 
